@@ -39,7 +39,7 @@ SELECT * FROM movies WHERE year ORDER BY year asc limit 5;
 ```
 
 Exercise 3
-```
+```SQL
 ## 1.Find all the Toy Story movies
 SELECT * FROM movies WHERE title LIKE "Toy Story%";
 
